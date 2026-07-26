@@ -1,0 +1,11 @@
+product_id,price,category,status,amount,region,priority,user_id,base_price,old_name
+P001,1200,Electronics,Completed,1500,North,High,U001,1200,Value A
+P002,500,Furniture,Pending,500,South,Low,U002,500,Value B
+P003,2500,Electronics,Completed,2500,North,Medium,U003,2500,Value C
+P004,800,Clothing,Completed,800,West,High,,800,Value D
+P005,1500,Electronics,Completed,1800,East,Low,U005,1500,Value E
+P006,300,Electronics,Pending,300,North,High,U006,300,Value F
+P007,2200,Furniture,Completed,2200,West,Medium,U007,2200,Value G
+P008,950,Electronics,Completed,1200,North,High,U008,950,Value H
+P009,700,Clothing,Pending,700,South,Low,U009,700,Value I
+P010,1800,Electronics,Completed,2000,North,High,U010,1800,Value J

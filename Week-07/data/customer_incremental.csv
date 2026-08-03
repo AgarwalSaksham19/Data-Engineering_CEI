@@ -1,0 +1,501 @@
+customer_id,first_name,last_name,email,phone,city,state,country,signup_date,membership,status
+CUST02526,Allison,Jones,torresryan@example.org,+1-935-467-4849x61219,Delhi,Bihar,India,2023-08-20,Platinum,Active
+CUST02923,James,Martin,cooperamanda@example.org,887.364.6634x853,Delhi,Bihar,India,2024-01-11,Silver,Inactive
+CUST00890,Robert,Wade,david74@example.net,001-886-900-1466,Patna,Telangana,India,2024-04-16,Platinum,Active
+CUST00658,Darlene,Holland,beckdiane@example.org,+1-648-500-1309,Hyderabad,Telangana,India,2023-02-26,Platinum,Active
+CUST04317,Jeffrey,Mitchell,jessica48@example.com,250.992.1465x6318,Patna,Maharashtra,India,2024-04-28,Silver,Inactive
+CUST00839,Nicholas,Rivera,mboone@example.net,,Delhi,Karnataka,India,2023-05-04,Silver,Active
+CUST02345,Kendra,Dixon,david26@example.com,437-704-3599x58231,Delhi,Telangana,India,2023-04-10,Platinum,Inactive
+CUST02147,Joseph,Davidson,washingtondanielle@example.com,574-685-0902x3696,Lucknow,Karnataka,India,2022-04-22,Gold,Active
+CUST00200,Paula,Moran,anthony39@example.net,624.400.1282,Kolkata,Delhi,India,2023-06-06,Platinum,Inactive
+CUST02847,Jennifer,Jimenez,tacosta@example.com,001-236-797-8890,Mumbai,Telangana,India,2023-12-02,Platinum,Active
+CUST04392,John,Johnson,keith55@example.com,(496)412-4600,Patna,West Bengal,India,2022-07-25,Platinum,Inactive
+CUST04714,William,Robertson,ehenry@example.org,889.649.7794x905,Mumbai,Maharashtra,India,2022-12-19,Platinum,Inactive
+CUST00085,David,Hernandez,sheltonjennifer@example.com,228-555-0968,Patna,Delhi,India,2024-03-12,Silver,Inactive
+CUST01118,Katherine,Nguyen,timothybryant@example.org,,Bangalore,West Bengal,India,2024-01-26,Platinum,Inactive
+CUST00394,Linda,Valencia,feliciaperez@example.net,,Delhi,West Bengal,India,2022-05-05,Gold,Inactive
+CUST00034,Amanda,Reynolds,mitchellnicholas@example.net,338.418.7194,Kolkata,West Bengal,India,2023-09-06,Silver,Active
+CUST01371,Brenda,Graham,hunterrobert@example.org,(912)400-1062x3193,Lucknow,Karnataka,India,2022-04-11,Gold,Active
+CUST03640,Wendy,Manning,bestcourtney@example.org,001-283-545-3701x6577,Kolkata,Rajasthan,India,2023-01-29,Gold,Active
+CUST02797,Barbara,Cummings,kclements@example.net,001-893-848-6742x1952,Kolkata,Delhi,India,2023-12-26,Gold,Inactive
+CUST04101,Samantha,Hughes,mlewis@example.net,8463981626,Kolkata,Tamil Nadu,India,2022-01-01,Gold,Active
+CUST03041,Patrick,Schmitt,amandaboyd@example.com,947-478-0702x135,Mumbai,Delhi,India,2024-04-18,Silver,Inactive
+CUST04368,Susan,Austin,sarawashington@example.org,001-713-602-5494x503,Patna,Rajasthan,India,2022-05-16,Silver,Inactive
+CUST00374,Kimberly,Lewis,michaelrosario@example.org,+1-411-784-9250x11275,Jaipur,Delhi,India,2024-03-31,Gold,Active
+CUST03567,Mallory,Rodriguez,adammiller@example.net,4196974560,Bangalore,Bihar,India,2022-07-01,Gold,Active
+CUST02173,Christian,Mcneil,antonio33@example.org,(419)817-1152,Pune,Tamil Nadu,India,2022-09-16,Silver,Inactive
+CUST01865,Monica,Vargas,ocampbell@example.com,403-372-2485x02038,Kolkata,Rajasthan,India,2022-11-15,Silver,Active
+CUST01182,Randy,Richard,bryan73@example.com,3448053806,Hyderabad,Karnataka,India,2023-07-29,Silver,Inactive
+CUST03226,Brittney,Conner,jeremiahkent@example.org,815.415.0180,Mumbai,Uttar Pradesh,India,2022-03-05,Platinum,Inactive
+CUST01722,Gregory,Watkins,marquezjessica@example.com,604.883.3728,Lucknow,Rajasthan,India,2023-08-25,Platinum,Inactive
+CUST00487,Clayton,Jacobs,jesse28@example.com,,Pune,Maharashtra,India,2023-04-13,Platinum,Inactive
+CUST03291,Megan,Chavez,fcallahan@example.com,(605)636-1577x59510,Jaipur,Rajasthan,India,2023-05-20,Gold,Inactive
+CUST00066,Cindy,Tucker,qmclaughlin@example.com,,Hyderabad,Bihar,India,2022-05-15,Platinum,Active
+CUST01210,Jacqueline,Lopez,cbooker@example.org,(400)344-0628,Jaipur,Uttar Pradesh,India,2022-07-31,Gold,Active
+CUST00169,Stephanie,Bishop,bridgesjuan@example.net,455.700.8957x338,Pune,Bihar,India,2023-09-13,Gold,Inactive
+CUST04534,Valerie,Wall,ujimenez@example.org,001-394-852-0729,Kolkata,Uttar Pradesh,India,2024-04-22,Platinum,Inactive
+CUST04110,Lance,Vance,adamscurtis@example.net,565.667.0466x342,Hyderabad,Maharashtra,India,2023-07-14,Gold,Active
+CUST02826,Deborah,Gentry,michael65@example.com,504.836.5274x5675,Jaipur,Karnataka,India,2023-11-21,Platinum,Active
+CUST00747,Jason,Bennett,terririchards@example.com,921-668-9881x24452,Lucknow,Bihar,India,2024-01-17,Platinum,Inactive
+CUST03155,Tina,Glenn,wilsonmichelle@example.net,993.310.7722,Patna,Bihar,India,2022-12-20,Silver,Active
+CUST00978,Gary,Martin,craiggarcia@example.net,463.704.6201,Delhi,West Bengal,India,2024-02-15,Platinum,Inactive
+CUST00297,Laura,Collins,alyssasingleton@example.com,001-805-457-2143x2430,Patna,Uttar Pradesh,India,2022-01-08,Silver,Active
+CUST03904,Derrick,Mendoza,lutzstacey@example.org,001-355-580-0899x208,Pune,Telangana,India,2023-08-19,Platinum,Inactive
+CUST00732,Mercedes,Johnson,krista18@example.com,9939812402,Mumbai,Uttar Pradesh,India,2022-09-11,Platinum,Active
+CUST04311,Brent,Snyder,philip95@example.org,287.578.9940x03788,Delhi,West Bengal,India,2024-03-07,Silver,Inactive
+CUST04884,Jacqueline,Perez,brandigarza@example.net,(993)312-4043x27993,Bangalore,Delhi,India,2022-06-24,Silver,Active
+CUST01700,Richard,Brown,odawson@example.org,001-263-505-5461x6143,Lucknow,Uttar Pradesh,India,2023-10-01,Platinum,Active
+CUST01873,Daniel,Sampson,qoconnor@example.org,5172807210,Bangalore,Karnataka,India,2024-06-16,Gold,Inactive
+CUST01102,Jade,York,baileyanna@example.net,284.874.3923x8711,Hyderabad,West Bengal,India,2023-02-26,Silver,Active
+CUST04747,Timothy,Miranda,susan84@example.org,945-987-8757x629,Delhi,Delhi,India,2024-04-11,Gold,Inactive
+CUST00080,Rachel,Harvey,kimberlyjones@example.com,563-767-3369x36335,Bangalore,Tamil Nadu,India,2023-08-20,Gold,Active
+CUST01039,Valerie,Rosario,jreyes@example.org,(421)996-2086x548,Bangalore,West Bengal,India,2023-06-03,Gold,Inactive
+CUST02827,Daniel,Mckay,zachary97@example.org,001-485-705-8038x88492,Jaipur,Tamil Nadu,India,2023-11-08,Silver,Active
+CUST03657,Jennifer,Barnett,nparsons@example.org,001-344-777-1121,Patna,Bihar,India,2024-01-06,Gold,Inactive
+CUST03261,Jill,Marsh,cynthia17@example.net,+1-784-292-4789x212,Jaipur,West Bengal,India,2023-01-08,Silver,Active
+CUST01198,Jerry,Stephenson,tinawade@example.com,369-214-1394x659,Delhi,Maharashtra,India,2022-10-27,Gold,Inactive
+CUST01201,Kim,Cline,anthony90@example.com,817-638-3999x7174,Delhi,Tamil Nadu,India,2022-02-10,Platinum,Active
+CUST00107,Carlos,Davis,shawn07@example.org,,Pune,Karnataka,India,2023-09-18,Platinum,Inactive
+CUST03739,Christine,Morris,vwilliams@example.com,(445)786-5087x66795,Jaipur,Maharashtra,India,2022-08-02,Silver,Inactive
+CUST01833,James,Wang,jasmine00@example.com,001-409-551-6454,Chennai,Rajasthan,India,2023-05-20,Platinum,Inactive
+CUST01095,Jeremy,Jones,qorr@example.com,286-529-9860x6609,Patna,Rajasthan,India,2022-12-22,Platinum,Active
+CUST04477,Caroline,Williams,nguyenjeremy@example.org,927-847-3550,Delhi,Delhi,India,2023-08-30,Gold,Inactive
+CUST03236,Steven,Harris,cunninghamnicholas@example.org,001-487-886-4163x020,Pune,Bihar,India,2024-06-13,Silver,Active
+CUST01273,Lindsey,Alexander,eric47@example.com,001-618-838-3158x679,Jaipur,West Bengal,India,2024-06-04,Gold,Inactive
+CUST01021,Kristen,Torres,rconrad@example.net,363-952-5222x2555,Patna,Telangana,India,2024-05-25,Gold,Active
+CUST01331,Patrick,Simon,vlee@example.net,+1-797-249-5983x70467,Jaipur,Karnataka,India,2023-05-02,Gold,Inactive
+CUST02485,Mary,Clark,dana63@example.org,464.895.2446,Bangalore,Tamil Nadu,India,2022-02-26,Gold,Active
+CUST04656,Lee,Logan,joshua21@example.com,834.334.6871,Pune,Maharashtra,India,2023-04-11,Gold,Active
+CUST00752,Paul,Copeland,iking@example.net,+1-665-806-2996x301,Patna,Rajasthan,India,2022-09-29,Gold,Inactive
+CUST03659,Richard,Payne,faithanderson@example.com,836.488.7338,Kolkata,Karnataka,India,2022-01-12,Gold,Active
+CUST02342,James,Marquez,griffinbrittany@example.org,679-582-2814,Hyderabad,Telangana,India,2022-07-28,Silver,Active
+CUST04636,Steven,Hopkins,dhouston@example.com,,Hyderabad,West Bengal,India,2023-06-29,Platinum,Inactive
+CUST01336,Allison,Stuart,jason39@example.net,320-738-7005x86040,Patna,Delhi,India,2023-10-20,Gold,Active
+CUST01422,Beth,Patrick,walter26@example.com,+1-771-392-0505,Jaipur,Telangana,India,2023-06-27,Gold,Active
+CUST01428,Julie,Carrillo,johnsonkatie@example.org,899.531.9641x1056,Pune,Karnataka,India,2023-07-05,Gold,Active
+CUST03318,Todd,Wheeler,wortiz@example.org,(207)369-6332,Hyderabad,Telangana,India,2022-08-09,Gold,Inactive
+CUST01042,Betty,Holmes,darrylmorris@example.com,001-667-517-0729,Pune,Karnataka,India,2024-02-28,Gold,Active
+CUST01504,Jo,Scott,reynoldsronnie@example.net,6206742610,Hyderabad,Karnataka,India,2023-12-29,Gold,Inactive
+CUST00857,Maria,Mays,mward@example.org,541.956.6049x22088,Bangalore,Uttar Pradesh,India,2024-03-14,Platinum,Active
+CUST03923,Jason,Vance,michael41@example.net,001-803-790-5301x9849,Jaipur,Tamil Nadu,India,2022-11-08,Platinum,Active
+CUST00486,Christina,Clarke,qholland@example.com,(549)826-5238x14519,Bangalore,Rajasthan,India,2024-04-08,Gold,Active
+CUST03939,Riley,Ellis,oscott@example.org,+1-341-977-7160x606,Hyderabad,Uttar Pradesh,India,2024-06-18,Platinum,Inactive
+CUST01175,Kayla,Fuller,gravesmary@example.org,+1-235-528-3715x3230,Kolkata,West Bengal,India,2022-11-23,Silver,Active
+CUST01363,Eric,Duncan,jamescollins@example.com,(419)981-0343,Kolkata,Uttar Pradesh,India,2023-05-01,Gold,Active
+CUST04685,Stephanie,Sweeney,swiggins@example.org,,Bangalore,Bihar,India,2024-05-09,Silver,Inactive
+CUST03887,Ashley,Davis,tyler11@example.net,001-643-268-0751x649,Kolkata,Bihar,India,2023-06-21,Silver,Active
+CUST02576,Valerie,Alvarez,dcook@example.com,786-943-7582x609,Hyderabad,Rajasthan,India,2022-05-31,Gold,Inactive
+CUST04273,Tasha,Howard,william50@example.com,001-537-709-7408x83883,Patna,Telangana,India,2024-01-05,Platinum,Inactive
+CUST00030,Daniel,Brown,austin23@example.net,,Bangalore,Tamil Nadu,India,2022-06-11,Silver,Active
+CUST02699,Brittney,Reynolds,william48@example.org,+1-984-858-0013,Mumbai,Rajasthan,India,2022-01-06,Gold,Inactive
+CUST04233,William,Joseph,whiteleslie@example.org,+1-963-634-2442,Jaipur,Karnataka,India,2023-07-09,Silver,Active
+CUST04006,Leslie,Welch,dorothy81@example.org,(411)860-5821,Kolkata,Maharashtra,India,2023-07-07,Silver,Inactive
+CUST01306,Joel,Jones,laurapierce@example.org,613-960-2145x263,Kolkata,Tamil Nadu,India,2022-07-07,Silver,Inactive
+CUST00531,David,Miller,johnsonjoanne@example.net,(644)828-3452x496,Delhi,Tamil Nadu,India,2024-05-09,Silver,Active
+CUST01685,Alejandro,Johnson,sullivanjennifer@example.net,388.681.5441,Chennai,Karnataka,India,2024-05-02,Platinum,Inactive
+CUST00241,Rebecca,Knight,nthompson@example.com,(591)573-7648,Bangalore,Karnataka,India,2022-04-03,Silver,Inactive
+CUST04285,Laurie,Foster,lauralarsen@example.com,001-716-521-6986x92634,Lucknow,Delhi,India,2022-05-26,Silver,Inactive
+CUST02673,Jennifer,Peck,allisonlopez@example.net,001-208-864-2272,Kolkata,Rajasthan,India,2023-03-16,Silver,Inactive
+CUST02089,Sharon,Dixon,nealpamela@example.com,+1-867-954-8807x6723,Jaipur,Karnataka,India,2023-02-20,Platinum,Inactive
+CUST00158,Melinda,Smith,cantuchristine@example.org,737.975.1866x9404,Mumbai,Bihar,India,2024-01-09,Silver,Active
+CUST00692,Robert,Rogers,zryan@example.com,681-337-1568x41933,Kolkata,West Bengal,India,2022-03-30,Silver,Inactive
+CUST00298,Michele,Murphy,andrew66@example.org,+1-285-506-5562,Mumbai,Maharashtra,India,2024-02-22,Platinum,Active
+CUST02441,Carrie,Morris,dmcguire@example.com,001-836-403-4385,Hyderabad,Rajasthan,India,2023-06-15,Platinum,Inactive
+CUST02991,Kelly,King,wheelermelanie@example.com,001-271-543-3274x6882,Hyderabad,Bihar,India,2023-10-10,Platinum,Active
+CUST03480,Bryan,Jackson,gravesdavid@example.com,+1-371-377-6600,Chennai,Telangana,India,2023-03-26,Silver,Active
+CUST01953,Gina,Lee,hmckenzie@example.com,8112489792,Patna,Karnataka,India,2024-01-01,Platinum,Inactive
+CUST03188,Roger,Mcguire,joshua02@example.com,244.800.8690x7164,Lucknow,Karnataka,India,2023-04-04,Platinum,Inactive
+CUST04893,Bryan,Thomas,elizabeth45@example.com,001-719-253-5552x046,Delhi,Tamil Nadu,India,2023-02-18,Silver,Inactive
+CUST00024,Vanessa,Dunn,milleramber@example.net,851-556-6962x6908,Chennai,Bihar,India,2023-08-21,Platinum,Active
+CUST04916,Jeffery,Mcclain,josephmendez@example.net,2042178541,Pune,Tamil Nadu,India,2022-11-22,Silver,Inactive
+CUST03351,William,White,wadephilip@example.com,920-709-6697x0815,Delhi,Delhi,India,2023-03-15,Gold,Active
+CUST03759,Angela,Rodriguez,mturner@example.com,233-475-9101,Bangalore,Tamil Nadu,India,2023-02-11,Platinum,Active
+CUST02510,Maria,Miller,michelle23@example.com,001-388-701-7727x3810,Jaipur,Delhi,India,2022-04-21,Gold,Active
+CUST04280,Michelle,Schultz,larryparks@example.org,+1-778-920-2317x8724,Pune,Delhi,India,2024-01-17,Silver,Inactive
+CUST03663,Michelle,Miranda,jonescheryl@example.net,596.642.5952,Pune,Karnataka,India,2022-02-15,Platinum,Inactive
+CUST02035,Abigail,Smith,zberry@example.com,347-352-6496x7817,Chennai,Telangana,India,2022-12-31,Silver,Active
+CUST04205,Joshua,Baker,matthew59@example.com,+1-591-329-6598x8071,Patna,Tamil Nadu,India,2022-07-19,Gold,Active
+CUST01096,Jesus,Coleman,cassandra93@example.com,001-809-782-8659,Chennai,Bihar,India,2023-03-29,Silver,Inactive
+CUST02868,Bryan,Cooper,ubrown@example.com,+1-229-900-1196,Bangalore,Delhi,India,2023-06-19,Platinum,Active
+CUST00229,Jason,Mendoza,reyesjennifer@example.net,,Kolkata,Karnataka,India,2023-12-18,Platinum,Inactive
+CUST00240,Peter,Pham,dbarrett@example.com,565.342.3795,Kolkata,Maharashtra,India,2024-02-12,Gold,Active
+CUST03018,Karen,Evans,ethan93@example.net,(351)350-5679,Patna,Rajasthan,India,2022-05-24,Silver,Inactive
+CUST03983,Alyssa,Hernandez,abigailrodriguez@example.net,001-899-670-4080x30229,Bangalore,Telangana,India,2023-09-19,Platinum,Active
+CUST04160,Deborah,Preston,grimesbradley@example.com,626-658-2568x82891,Patna,Uttar Pradesh,India,2022-02-18,Gold,Inactive
+CUST00180,Timothy,Smith,perezjulie@example.com,424-844-3398x1349,Mumbai,Maharashtra,India,2023-03-26,Platinum,Active
+CUST03998,Thomas,Rogers,brandon25@example.net,221-998-8346x6256,Kolkata,Rajasthan,India,2023-10-03,Platinum,Inactive
+CUST02405,Erika,Bass,alyssajones@example.com,773-562-5621,Pune,Maharashtra,India,2023-04-25,Silver,Inactive
+CUST02861,Michael,Garza,crystalvaughn@example.net,001-335-868-6152,Lucknow,Tamil Nadu,India,2024-02-16,Platinum,Active
+CUST01719,Abigail,Warren,amanda80@example.com,350-681-8884x27671,Jaipur,Delhi,India,2023-09-30,Silver,Active
+CUST04281,Sheri,Flores,pattersonsamantha@example.org,(335)241-1337x489,Bangalore,Telangana,India,2024-02-24,Platinum,Inactive
+CUST01771,William,Jones,benjamin82@example.org,001-279-960-4440x316,Delhi,West Bengal,India,2023-08-22,Gold,Active
+CUST02105,Brian,Garrett,xmcdonald@example.net,+1-830-486-0657x70190,Patna,Delhi,India,2022-09-18,Platinum,Inactive
+CUST04663,Anna,Vaughn,amber11@example.org,453-321-4418,Jaipur,West Bengal,India,2023-10-29,Silver,Active
+CUST04925,Kimberly,Moore,michelletownsend@example.net,8202542325,Delhi,Rajasthan,India,2022-10-01,Silver,Inactive
+CUST00712,Rachael,Montes,isaacarmstrong@example.net,001-313-800-7329x59566,Jaipur,Karnataka,India,2023-06-10,Gold,Inactive
+CUST02134,Eric,Barnes,mark03@example.org,+1-383-841-5844x943,Lucknow,Uttar Pradesh,India,2023-03-09,Platinum,Inactive
+CUST02958,Tammy,Jennings,nelsonmelissa@example.org,+1-571-976-7871x9632,Delhi,Bihar,India,2023-03-31,Platinum,Inactive
+CUST00334,Brittany,Nguyen,pmiller@example.net,,Chennai,Delhi,India,2022-06-08,Gold,Inactive
+CUST00897,David,Taylor,pphillips@example.org,(373)824-9644x84654,Hyderabad,Telangana,India,2024-04-24,Platinum,Inactive
+CUST04154,Sharon,Miller,sdeleon@example.com,592.748.1245,Chennai,Maharashtra,India,2022-07-28,Platinum,Active
+CUST04284,Harry,Cardenas,adavenport@example.net,274.720.3942x820,Kolkata,Telangana,India,2024-03-08,Silver,Active
+CUST03816,Chelsea,Brown,ojones@example.com,(608)688-0971,Hyderabad,Rajasthan,India,2022-03-09,Platinum,Active
+CUST02396,Leah,Price,adamsjohnny@example.com,+1-879-415-0370x56067,Chennai,West Bengal,India,2022-03-18,Platinum,Inactive
+CUST03993,Adam,Miller,kadams@example.net,5093801356,Hyderabad,Maharashtra,India,2023-08-09,Gold,Inactive
+CUST03596,Veronica,Moss,cruzkimberly@example.net,483.241.7550x843,Hyderabad,Bihar,India,2022-12-15,Gold,Inactive
+CUST03039,Jessica,Small,johnsonlatoya@example.org,001-761-481-9378x96967,Pune,Bihar,India,2022-01-25,Silver,Inactive
+CUST04327,Joseph,Mejia,jesse55@example.net,(405)967-5689x23471,Patna,Delhi,India,2023-01-29,Platinum,Active
+CUST00706,Dana,Ford,jleon@example.org,,Patna,Rajasthan,India,2022-07-27,Platinum,Active
+CUST01375,Todd,Kennedy,hcastillo@example.org,+1-766-931-4782x297,Pune,Karnataka,India,2023-01-20,Platinum,Inactive
+CUST02310,Bailey,Taylor,brenda71@example.com,(654)560-7327x313,Jaipur,Rajasthan,India,2024-04-22,Silver,Active
+CUST03964,Zoe,Simpson,carloslewis@example.net,742.317.5330x06386,Mumbai,West Bengal,India,2023-09-18,Silver,Active
+CUST04419,Eric,Novak,rmiller@example.com,(977)805-4378x4519,Jaipur,Telangana,India,2022-05-04,Gold,Inactive
+CUST02882,Catherine,Carroll,ayersantonio@example.com,(215)724-0752x560,Delhi,Bihar,India,2023-01-01,Silver,Active
+CUST01534,Erik,Shaw,jeffrey13@example.net,+1-960-247-8167x37884,Delhi,Telangana,India,2022-09-17,Platinum,Inactive
+CUST03246,Amber,Simmons,brose@example.org,938.847.5730x4698,Hyderabad,Telangana,India,2024-04-02,Platinum,Active
+CUST02650,David,Smith,shannon76@example.org,962-277-0136x5760,Chennai,Telangana,India,2022-10-02,Silver,Inactive
+CUST03066,Angela,George,laura03@example.net,814.786.2949,Chennai,Bihar,India,2023-01-15,Platinum,Inactive
+CUST00830,Michael,Marshall,rivasryan@example.org,(847)223-1082x71660,Patna,Tamil Nadu,India,2023-04-27,Platinum,Inactive
+CUST03575,Kenneth,Jones,daltonsmith@example.org,798.520.7896x7396,Bangalore,West Bengal,India,2022-12-12,Silver,Inactive
+CUST01452,Joseph,Walker,rachel04@example.com,+1-856-221-6293x827,Jaipur,West Bengal,India,2022-06-15,Silver,Active
+CUST03804,Christina,Grant,pfloyd@example.org,(589)705-4211x21011,Kolkata,Maharashtra,India,2022-04-06,Platinum,Inactive
+CUST02237,Marcus,Schwartz,brandi16@example.net,001-391-745-9627x6071,Lucknow,Rajasthan,India,2023-09-09,Platinum,Inactive
+CUST04898,Annette,Goodwin,emilybanks@example.net,(278)804-3870,Chennai,Rajasthan,India,2022-10-08,Platinum,Inactive
+CUST00280,Justin,Benson,rosariorobin@example.com,2057770621,Lucknow,Uttar Pradesh,India,2023-02-25,Gold,Active
+CUST03500,Daniel,Garrett,john74@example.com,+1-888-855-7759x1020,Hyderabad,Rajasthan,India,2022-08-04,Gold,Inactive
+CUST01618,James,Palmer,stephaniewallace@example.net,(760)609-8227x9047,Lucknow,Bihar,India,2023-05-02,Gold,Active
+CUST01860,William,Davis,grantporter@example.com,943.501.6056,Kolkata,Karnataka,India,2022-04-21,Silver,Inactive
+CUST04891,Stephen,Jackson,rosalesrichard@example.net,001-685-377-5101x93847,Pune,Delhi,India,2023-08-09,Gold,Active
+CUST02255,Sandra,Brown,danielwashington@example.org,(972)415-8739x54270,Kolkata,Uttar Pradesh,India,2022-10-21,Silver,Active
+CUST00894,Kaitlyn,Thompson,wolfedonna@example.net,920.594.1008x8551,Lucknow,Delhi,India,2023-12-20,Silver,Inactive
+CUST02639,Richard,Mccoy,anoble@example.net,001-533-267-1735x530,Kolkata,West Bengal,India,2022-01-04,Gold,Active
+CUST00656,John,Cherry,kmartinez@example.net,+1-629-273-9483x616,Mumbai,Delhi,India,2022-03-12,Gold,Inactive
+CUST04688,Carolyn,Andrews,stewartmikayla@example.net,9082454161,Hyderabad,Delhi,India,2022-10-24,Gold,Inactive
+CUST04615,Renee,Hartman,harryconner@example.com,(890)349-5852,Jaipur,Uttar Pradesh,India,2023-11-12,Platinum,Inactive
+CUST00229,Jason,Mendoza,reyesjennifer@example.net,,Pune,Maharashtra,India,2023-12-18,Gold,Active
+CUST04619,Steven,Olsen,nprice@example.com,001-219-709-0793,Chennai,Telangana,India,2022-02-14,Platinum,Active
+CUST01130,Adriana,Atkinson,douglas73@example.org,322.285.2853,Delhi,Rajasthan,India,2024-04-04,Silver,Inactive
+CUST02074,John,Lewis,webstergary@example.net,814-765-4214x7901,Jaipur,Rajasthan,India,2022-10-26,Platinum,Inactive
+CUST04348,Joshua,Brown,jonathantanner@example.org,(684)661-5153x96894,Delhi,Bihar,India,2022-03-10,Gold,Active
+CUST00492,Richard,Kirby,gwalker@example.org,799.517.7334x013,Hyderabad,Uttar Pradesh,India,2022-10-21,Silver,Inactive
+CUST01733,Michael,Beasley,williamswilliam@example.net,001-945-613-1791x933,Pune,Bihar,India,2023-12-25,Silver,Inactive
+CUST01216,Kaitlyn,Medina,randerson@example.org,802.700.7490,Patna,Karnataka,India,2022-06-05,Silver,Inactive
+CUST02835,Alexa,Mcdonald,jeremy30@example.com,(262)247-3608x95591,Chennai,Karnataka,India,2022-07-02,Platinum,Active
+CUST01269,Richard,Watson,ngonzalez@example.com,212-585-9874,Mumbai,Bihar,India,2024-02-25,Gold,Active
+CUST04792,Kelly,Hill,oscar69@example.net,334.537.7134x96768,Patna,Uttar Pradesh,India,2023-12-08,Silver,Active
+CUST01535,John,Johnson,amandawilson@example.org,(954)235-8631,Hyderabad,Bihar,India,2024-02-12,Silver,Inactive
+CUST04689,Timothy,Campbell,tbeck@example.com,+1-610-597-3146,Jaipur,Rajasthan,India,2023-11-10,Silver,Inactive
+CUST04985,Kelly,Gonzalez,ufisher@example.net,+1-681-402-4473x3846,Mumbai,Tamil Nadu,India,2022-03-24,Platinum,Inactive
+CUST04306,Charles,Johnson,elizabeth37@example.net,463-936-8735x578,Kolkata,Delhi,India,2022-05-31,Platinum,Active
+CUST00654,Michelle,King,qharrison@example.net,259-800-2968x16626,Lucknow,Tamil Nadu,India,2024-01-19,Gold,Inactive
+CUST00995,William,Green,fwhite@example.org,+1-242-622-0297,Mumbai,Uttar Pradesh,India,2022-05-11,Platinum,Inactive
+CUST01019,Marie,Fritz,vegarussell@example.net,(537)730-2677,Hyderabad,Tamil Nadu,India,2023-07-27,Silver,Inactive
+CUST04591,Jacob,Johnson,rachel75@example.net,616-299-5807,Bangalore,Karnataka,India,2023-05-21,Gold,Inactive
+CUST00556,Ryan,Mcdonald,brittanywilson@example.net,652-830-0444x996,Lucknow,West Bengal,India,2022-12-31,Silver,Active
+CUST00009,Edward,Love,bishopeugene@example.org,737-303-1192x667,Delhi,Delhi,India,2022-04-15,Silver,Active
+CUST01091,Patricia,Robinson,joseph98@example.net,+1-393-537-3459x8749,Chennai,Telangana,India,2022-01-30,Platinum,Inactive
+CUST03476,Todd,Woods,linlinda@example.com,820.791.8923,Delhi,Uttar Pradesh,India,2023-01-18,Gold,Active
+CUST03322,Kim,Robinson,dfoster@example.com,+1-805-473-6835x59833,Mumbai,Delhi,India,2024-01-07,Platinum,Active
+CUST04227,Deborah,Moore,isoto@example.com,500-399-2826,Delhi,Tamil Nadu,India,2022-01-16,Platinum,Inactive
+CUST03044,Paul,Wagner,haleygarza@example.org,272-953-1575,Hyderabad,Karnataka,India,2024-01-29,Gold,Inactive
+CUST01372,Traci,Burton,robert18@example.net,(356)711-4904x226,Kolkata,Maharashtra,India,2022-12-26,Silver,Active
+CUST00145,Benjamin,Chapman,snyderadam@example.com,938-709-8918x151,Jaipur,Telangana,India,2024-01-22,Silver,Inactive
+CUST00677,Michael,Murray,stonejamie@example.net,001-359-262-4427x5583,Chennai,Delhi,India,2022-11-13,Gold,Active
+CUST03935,Stephanie,Lawrence,hoffmankimberly@example.org,+1-624-925-1426x57079,Delhi,Karnataka,India,2022-05-13,Silver,Inactive
+CUST02752,Victoria,Garcia,barrjames@example.com,+1-336-441-0424x771,Delhi,Karnataka,India,2022-12-22,Gold,Active
+CUST00932,David,Norris,michael51@example.com,(267)932-3619,Mumbai,Tamil Nadu,India,2022-10-28,Gold,Inactive
+CUST03817,William,Barrett,lambertkimberly@example.net,679.568.2891x218,Jaipur,Rajasthan,India,2022-03-24,Platinum,Active
+CUST01607,Corey,Jackson,kmartinez@example.org,239.436.4414x358,Patna,Tamil Nadu,India,2022-09-22,Gold,Active
+CUST00152,Joseph,Bradley,johnsonalvin@example.org,990.423.6549,Delhi,Rajasthan,India,2022-09-05,Platinum,Active
+CUST03590,David,Powell,strevino@example.com,343.508.6174,Hyderabad,Rajasthan,India,2023-09-01,Silver,Inactive
+CUST03899,Michael,Jones,acohen@example.com,001-244-801-4683,Bangalore,Telangana,India,2022-01-17,Silver,Active
+CUST02414,Jonathan,Potts,nferguson@example.org,,Chennai,Tamil Nadu,India,2022-01-30,Silver,Active
+CUST00228,Christine,Ortiz,gmcgee@example.org,(901)404-1191,Delhi,Maharashtra,India,2023-01-26,Silver,Inactive
+CUST01540,Justin,Smith,lanecasey@example.net,7752858004,Hyderabad,Bihar,India,2023-06-26,Platinum,Inactive
+CUST01745,Kelly,Burton,michael16@example.net,,Hyderabad,Bihar,India,2022-01-31,Silver,Active
+CUST04265,Jacqueline,Green,daniel96@example.org,(298)406-3017,Chennai,Tamil Nadu,India,2024-04-04,Gold,Active
+CUST02313,Stephanie,Valencia,briannaphelps@example.com,(795)272-1882,Patna,Tamil Nadu,India,2024-06-04,Gold,Inactive
+CUST01617,Brian,Sullivan,ricesean@example.com,(959)920-5481x77792,Hyderabad,Telangana,India,2023-12-18,Gold,Inactive
+CUST02104,Brett,Church,stephanie26@example.net,001-486-548-4415x34621,Bangalore,Tamil Nadu,India,2023-10-28,Platinum,Inactive
+CUST01407,Brittany,Lopez,doughertytammy@example.org,864-845-7496x37384,Hyderabad,Rajasthan,India,2024-04-17,Silver,Inactive
+CUST04935,Hailey,Williams,casey25@example.com,413-349-5587x363,Hyderabad,Karnataka,India,2023-12-05,Silver,Inactive
+CUST00502,Catherine,White,deborahcampbell@example.com,,Hyderabad,Karnataka,India,2022-09-08,Silver,Active
+CUST00671,Daniel,Hendricks,stephanie35@example.net,(761)580-9011,Kolkata,Rajasthan,India,2022-03-26,Platinum,Inactive
+CUST01836,Gloria,Russell,ywhite@example.com,+1-969-782-6706x5890,Kolkata,Uttar Pradesh,India,2022-03-08,Gold,Active
+CUST03635,Jessica,Wright,hgarcia@example.org,(481)823-7038x57140,Patna,Rajasthan,India,2023-03-13,Gold,Active
+CUST02016,Sean,Pham,otrevino@example.net,001-571-216-3667,Delhi,Maharashtra,India,2023-08-24,Silver,Active
+CUST00849,April,Bell,lori51@example.com,254-984-8127,Hyderabad,West Bengal,India,2023-12-30,Gold,Inactive
+CUST00585,Lisa,Navarro,rose34@example.org,784-295-2935,Jaipur,Delhi,India,2023-09-05,Gold,Active
+CUST00249,Arthur,Holmes,yolandaphillips@example.com,(856)225-8619x745,Delhi,Rajasthan,India,2023-01-15,Platinum,Active
+CUST01053,Veronica,Anderson,kimberlycurtis@example.com,582.739.1171,Patna,Tamil Nadu,India,2024-02-22,Platinum,Inactive
+CUST02314,Donna,Smith,lfowler@example.net,001-778-878-6571x22209,Pune,Tamil Nadu,India,2022-09-27,Platinum,Active
+CUST04276,Thomas,Allen,njackson@example.net,456-503-0001x13416,Delhi,Telangana,India,2022-12-05,Platinum,Active
+CUST02073,Ian,Gibson,sara46@example.com,001-707-569-3346x14644,Delhi,Rajasthan,India,2023-04-14,Silver,Inactive
+CUST01630,George,Mccullough,wongjackie@example.com,+1-922-414-6879x05314,Lucknow,Telangana,India,2023-04-10,Platinum,Active
+CUST00101,Carol,Bullock,vfox@example.net,241.617.7120x446,Mumbai,Rajasthan,India,2023-02-20,Gold,Active
+CUST02846,Matthew,Ramirez,jamesmoore@example.org,215.486.0741,Lucknow,Delhi,India,2023-09-17,Silver,Active
+CUST00643,Steven,Cohen,deborahkim@example.com,,Bangalore,West Bengal,India,2022-02-17,Gold,Inactive
+CUST04120,Vanessa,Valentine,kcameron@example.com,+1-753-241-7665x3151,Kolkata,Karnataka,India,2022-03-01,Gold,Inactive
+CUST04067,Allen,Gilbert,erikaguerra@example.org,,Kolkata,Bihar,India,2024-01-19,Gold,Inactive
+CUST04021,Keith,Jones,boothkevin@example.com,747.770.1255x02472,Mumbai,Rajasthan,India,2023-04-18,Platinum,Active
+CUST00562,Nicole,Brooks,heather06@example.com,427-715-1460x217,Chennai,West Bengal,India,2022-05-16,Platinum,Active
+CUST01695,Eric,Parker,marcus23@example.org,8237911367,Chennai,Karnataka,India,2022-04-07,Silver,Inactive
+CUST01944,Pamela,Friedman,wmcdonald@example.org,535-686-2389,Patna,Uttar Pradesh,India,2023-10-06,Silver,Active
+CUST04158,Jennifer,Ward,qwilson@example.org,812-660-3044x38924,Mumbai,Delhi,India,2022-11-14,Platinum,Active
+CUST02768,Rose,Peck,morrisonjennifer@example.org,(249)277-0303,Delhi,Telangana,India,2022-05-14,Gold,Inactive
+CUST01171,Neil,Lewis,jorge48@example.net,873.849.6226x362,Chennai,Telangana,India,2023-09-02,Silver,Inactive
+CUST04184,Anna,Welch,davisrodney@example.net,213-578-9800x14476,Hyderabad,Tamil Nadu,India,2023-08-24,Platinum,Active
+CUST01174,Melissa,Peterson,brookeknight@example.net,237-765-1313x812,Jaipur,Karnataka,India,2023-10-12,Platinum,Active
+CUST03672,Ruben,Vang,thunter@example.com,547-500-2031x62904,Delhi,Uttar Pradesh,India,2022-08-20,Platinum,Active
+CUST01294,Robert,Solis,tyler58@example.org,474.302.6600x446,Bangalore,West Bengal,India,2022-01-16,Gold,Inactive
+CUST03815,Alexis,Hughes,heather82@example.net,(587)456-0436x408,Hyderabad,Delhi,India,2024-04-13,Platinum,Inactive
+CUST02338,Alec,Rose,adamsnicholas@example.org,+1-948-200-7588x70758,Hyderabad,Karnataka,India,2022-05-12,Platinum,Inactive
+CUST04026,Randall,Garrett,elizabeth29@example.com,001-532-633-6228x8073,Mumbai,Uttar Pradesh,India,2023-06-13,Platinum,Inactive
+CUST00806,David,Lynch,alejandroyoung@example.org,+1-877-704-2614x316,Patna,Bihar,India,2024-05-07,Platinum,Active
+CUST03113,Randy,Carter,dixonsarah@example.org,808-262-6082x6754,Bangalore,Rajasthan,India,2024-02-29,Silver,Inactive
+CUST04260,Martin,Owens,daniel43@example.net,5498511834,Chennai,Telangana,India,2024-03-27,Silver,Inactive
+CUST04712,Jermaine,Morris,terrence37@example.com,384-819-4746x38128,Mumbai,West Bengal,India,2024-04-18,Platinum,Inactive
+CUST04658,David,Mason,wharris@example.com,(583)663-9286,Chennai,Telangana,India,2022-06-08,Gold,Inactive
+CUST01718,Christina,Acosta,stephanierivera@example.com,+1-558-754-1358x167,Mumbai,West Bengal,India,2023-10-26,Silver,Inactive
+CUST03906,Melvin,Johnson,powellcraig@example.net,+1-679-482-4441x156,Mumbai,Tamil Nadu,India,2022-04-01,Platinum,Active
+CUST02785,Joseph,Bryan,rebecca03@example.org,001-460-652-3032x8893,Mumbai,West Bengal,India,2023-11-01,Silver,Active
+CUST01282,Christopher,Martinez,rojasrobert@example.net,293.855.8125x500,Patna,Telangana,India,2022-06-29,Silver,Inactive
+CUST04956,John,Douglas,mstone@example.net,+1-495-948-6759x282,Mumbai,West Bengal,India,2022-12-26,Gold,Active
+CUST04178,Julie,Sanders,keith62@example.net,(964)215-6067,Pune,Bihar,India,2022-09-25,Platinum,Inactive
+CUST03942,Maria,Larson,fnichols@example.com,494.864.8977,Jaipur,Tamil Nadu,India,2024-01-05,Platinum,Inactive
+CUST02458,Elizabeth,Dixon,pheath@example.org,606-593-7669,Chennai,West Bengal,India,2024-03-15,Gold,Active
+CUST02887,Andrea,King,austinrobert@example.com,001-274-824-5852,Delhi,Karnataka,India,2022-09-08,Gold,Active
+CUST02693,Patrick,Castillo,ngray@example.org,974.499.2488x55067,Lucknow,Maharashtra,India,2022-10-29,Platinum,Inactive
+CUST03190,Chad,Atkinson,melaniepeterson@example.net,214-227-9072x192,Bangalore,Uttar Pradesh,India,2022-05-19,Platinum,Inactive
+CUST01413,Jose,Mitchell,priley@example.com,+1-336-338-9632,Kolkata,Maharashtra,India,2023-07-21,Gold,Inactive
+CUST00427,Eric,Jacobs,shepardmichael@example.com,256-436-4256x5034,Patna,Maharashtra,India,2023-02-15,Silver,Active
+CUST00231,Jennifer,Bradley,johnsonscott@example.com,423-222-3106x17011,Delhi,Delhi,India,2024-05-02,Silver,Inactive
+CUST03748,Amy,Cruz,lewissheila@example.org,+1-818-697-2698x3376,Hyderabad,Bihar,India,2023-02-03,Gold,Inactive
+CUST03828,Brooke,Richards,keith89@example.net,894.429.0857x381,Pune,Karnataka,India,2023-02-11,Silver,Inactive
+CUST04309,Brenda,Carroll,jgomez@example.net,348.767.1564,Kolkata,Rajasthan,India,2024-04-24,Gold,Active
+CUST00417,Sarah,Weber,ruizdavid@example.net,505.295.0195,Lucknow,West Bengal,India,2022-11-23,Silver,Inactive
+CUST03012,Holly,Kirk,james23@example.net,(584)791-6754,Delhi,Uttar Pradesh,India,2023-05-03,Silver,Inactive
+CUST01838,Ann,Whitehead,creeves@example.net,961.245.6191x3148,Kolkata,Tamil Nadu,India,2022-07-16,Platinum,Active
+CUST01787,William,Morgan,amy01@example.org,709.485.7693x6974,Delhi,Karnataka,India,2022-04-02,Platinum,Inactive
+CUST02370,Linda,Spencer,rogerschristine@example.com,(985)582-5299x80209,Pune,Telangana,India,2023-06-08,Silver,Inactive
+CUST00812,Margaret,Clark,wheelerjohn@example.com,323.960.3869x32447,Lucknow,Rajasthan,India,2023-03-10,Silver,Active
+CUST01974,Brett,Matthews,marissa12@example.com,707.273.3816,Hyderabad,Delhi,India,2023-09-07,Platinum,Inactive
+CUST00587,Mary,Stone,vernon52@example.org,001-435-758-9437,Mumbai,Delhi,India,2022-04-22,Platinum,Active
+CUST00725,James,Holden,tnewton@example.com,(794)846-9163x8573,Chennai,Karnataka,India,2022-03-04,Platinum,Active
+CUST01996,Michele,Rodriguez,valeriegeorge@example.org,898.644.3621x6187,Hyderabad,Maharashtra,India,2023-04-28,Gold,Inactive
+CUST02158,Nicole,Castillo,meyerbrandon@example.net,677-507-3378,Mumbai,Telangana,India,2022-03-26,Silver,Inactive
+CUST01176,Timothy,Long,ltorres@example.net,495.983.5346,Patna,Delhi,India,2022-06-06,Platinum,Inactive
+CUST03129,Jessica,Parrish,grantburns@example.org,+1-436-911-4104x39472,Jaipur,Uttar Pradesh,India,2023-10-04,Silver,Inactive
+CUST03251,Ian,Garcia,xarias@example.net,+1-366-411-6739,Bangalore,Delhi,India,2022-03-06,Gold,Active
+CUST02500,April,Anthony,jon73@example.org,8442774557,Bangalore,Tamil Nadu,India,2023-04-16,Gold,Inactive
+CUST02795,Anna,Hurst,vgonzalez@example.org,001-914-585-5852x6337,Chennai,West Bengal,India,2024-03-15,Platinum,Active
+CUST01919,Elizabeth,Greer,ksnow@example.org,544-389-0822x259,Lucknow,Delhi,India,2023-01-19,Gold,Inactive
+CUST00777,Michael,Strong,danielparker@example.com,001-410-495-8509x8511,Pune,Tamil Nadu,India,2023-07-03,Silver,Inactive
+CUST04751,Karen,Harris,cortezjeremy@example.com,6023528233,Lucknow,Karnataka,India,2023-04-01,Platinum,Inactive
+CUST00950,William,Adams,keith79@example.com,001-675-653-8602,Pune,Karnataka,India,2023-02-09,Silver,Active
+CUST04776,Anthony,Peck,curtisgarza@example.org,001-701-414-0532x57385,Lucknow,Rajasthan,India,2023-05-24,Silver,Inactive
+CUST00539,John,Bowen,qmcdonald@example.org,857.290.5944x2917,Jaipur,Delhi,India,2022-09-04,Gold,Inactive
+CUST02058,Lauren,Bowman,xsilva@example.org,+1-675-299-3877x678,Patna,Uttar Pradesh,India,2023-08-28,Gold,Inactive
+CUST04193,Rachael,Freeman,obriendaniel@example.org,+1-884-443-8303x53536,Patna,Delhi,India,2023-02-06,Gold,Inactive
+CUST04396,Joe,Lucas,kware@example.com,001-480-522-1239x5344,Mumbai,Uttar Pradesh,India,2024-04-08,Gold,Active
+CUST00150,Christopher,Hughes,christopherpaul@example.net,(522)701-6783x28476,Kolkata,Bihar,India,2022-12-30,Gold,Inactive
+CUST05001,Michelle,Lee,tony10@example.org,407-695-3210,Mumbai,West Bengal,India,2023-05-18,Silver,Inactive
+CUST05002,Ruben,Thomas,myersmatthew@example.com,771-594-6814,Pune,Delhi,India,2022-12-13,Gold,Inactive
+CUST05003,Sara,Wilkerson,jessica23@example.org,001-972-550-1055x167,Mumbai,Delhi,India,2023-07-28,Silver,Inactive
+CUST05004,James,Curtis,murphyyesenia@example.org,513.960.9549,Delhi,West Bengal,India,2023-07-15,Gold,Inactive
+CUST05005,Courtney,Velazquez,sanchezchristopher@example.net,532-295-9575x786,Jaipur,Delhi,India,2023-04-22,Silver,Active
+CUST05006,Rachel,Olson,kellyfarrell@example.org,960-470-2072,Hyderabad,Telangana,India,2023-10-29,Silver,Active
+CUST05007,Bryan,Rodriguez,ehale@example.net,(617)666-3611,Bangalore,Bihar,India,2022-08-07,Silver,Active
+CUST05008,Cynthia,Chaney,garciaeric@example.com,577.701.0953,Kolkata,Delhi,India,2023-02-05,Gold,Inactive
+CUST05009,Amanda,Taylor,jwhite@example.com,257-442-5147x94433,Chennai,Rajasthan,India,2023-07-19,Gold,Inactive
+CUST05010,Nathaniel,Jones,jessica07@example.org,921-565-1470,Lucknow,Delhi,India,2023-11-14,Gold,Inactive
+CUST05011,Cassie,Wolfe,murphyanthony@example.com,990-602-6331x1257,Chennai,Maharashtra,India,2023-11-30,Gold,Active
+CUST05012,Nicole,Garcia,ronaldrhodes@example.com,874.627.4728x88039,Kolkata,Karnataka,India,2022-09-09,Platinum,Active
+CUST05013,Patrick,Ortiz,stevenharper@example.com,+1-792-381-7156x3994,Chennai,Delhi,India,2022-04-02,Platinum,Active
+CUST05014,Morgan,Cole,frodriguez@example.com,9277426821,Bangalore,Telangana,India,2024-05-08,Silver,Inactive
+CUST05015,Michael,Gutierrez,diane58@example.net,(686)928-3849x339,Delhi,Rajasthan,India,2022-03-16,Silver,Active
+CUST05016,Katherine,Johnson,ycollins@example.com,001-326-659-5012x098,Chennai,Delhi,India,2022-07-22,Platinum,Inactive
+CUST05017,Mark,Salazar,pcrawford@example.net,201-307-2145x4370,Patna,Telangana,India,2024-03-11,Silver,Active
+CUST05018,Timothy,Cooper,waterspenny@example.com,+1-425-475-1987,Jaipur,Tamil Nadu,India,2023-09-27,Platinum,Active
+CUST05019,Brian,Garcia,misty89@example.com,(679)599-9665x02043,Jaipur,Telangana,India,2022-10-23,Platinum,Active
+CUST05020,Brenda,Robinson,evan70@example.org,997-929-7217,Delhi,Delhi,India,2022-08-14,Gold,Active
+CUST05021,Brianna,Contreras,suzanne90@example.org,+1-825-785-2120x611,Bangalore,Maharashtra,India,2024-01-27,Silver,Inactive
+CUST05022,Paul,Martinez,anelson@example.org,001-712-488-1165x05034,Pune,Delhi,India,2024-05-28,Silver,Active
+CUST05023,Paul,Perez,kirbylaura@example.org,456.758.3157x38796,Mumbai,Uttar Pradesh,India,2023-01-13,Gold,Inactive
+CUST05024,Dennis,Cole,fbuck@example.org,7437330517,Jaipur,Uttar Pradesh,India,2024-02-21,Platinum,Inactive
+CUST05025,Jennifer,Savage,xdavis@example.com,+1-222-474-1216x6792,Pune,Tamil Nadu,India,2023-02-18,Platinum,Inactive
+CUST05026,Jeremy,Barrett,meghanweaver@example.com,001-324-429-0304,Hyderabad,West Bengal,India,2022-08-27,Silver,Active
+CUST05027,Angel,Davis,kevinmartinez@example.com,+1-637-304-4340x27324,Chennai,Delhi,India,2022-01-04,Silver,Inactive
+CUST05028,Gabriel,Santos,ramirezjuan@example.com,237-724-9025,Bangalore,Telangana,India,2023-05-26,Silver,Inactive
+CUST05029,Kelsey,Davis,austinwilliams@example.net,001-362-200-6039x82017,Kolkata,Uttar Pradesh,India,2023-06-02,Silver,Inactive
+CUST05030,Michelle,Young,laura54@example.com,(572)503-0529x614,Pune,West Bengal,India,2023-04-29,Gold,Inactive
+CUST05031,Andrew,Jones,josebarton@example.net,+1-837-930-3470x56647,Mumbai,Bihar,India,2024-02-02,Platinum,Active
+CUST05032,Mark,Brooks,martincox@example.com,(806)459-4986,Lucknow,Karnataka,India,2023-04-05,Silver,Active
+CUST05033,Rodney,Johnson,gdavis@example.org,803-296-8725,Kolkata,Karnataka,India,2022-08-28,Platinum,Inactive
+CUST05034,Marie,Jarvis,john00@example.com,244-620-9797x88174,Mumbai,Karnataka,India,2023-06-03,Gold,Inactive
+CUST05035,Joe,Hardy,csandoval@example.net,(523)343-4665x7979,Bangalore,Delhi,India,2022-06-08,Platinum,Inactive
+CUST05036,Michael,Johnson,qreeves@example.com,685-296-7150,Pune,Uttar Pradesh,India,2022-06-14,Silver,Active
+CUST05037,Sandra,Fischer,smithjesse@example.net,001-753-956-7979,Hyderabad,Uttar Pradesh,India,2022-10-30,Platinum,Inactive
+CUST05038,Trevor,Brown,jessica65@example.net,001-674-358-5611x5938,Hyderabad,Uttar Pradesh,India,2024-03-01,Gold,Inactive
+CUST05039,Richard,Nelson,zfrost@example.org,+1-757-571-5757x5654,Delhi,Karnataka,India,2022-05-25,Silver,Inactive
+CUST05040,Yesenia,Smith,curtistyler@example.org,001-501-580-2972x36734,Delhi,Rajasthan,India,2022-04-15,Silver,Active
+CUST05041,Grace,Ware,daltonrichard@example.net,9488547765,Jaipur,Rajasthan,India,2024-04-26,Silver,Inactive
+CUST05042,Eric,Ward,calvinhernandez@example.com,312.634.2469x90413,Hyderabad,Rajasthan,India,2023-01-29,Platinum,Active
+CUST05043,Michael,Davis,pamela54@example.org,377.778.5400x11665,Delhi,Tamil Nadu,India,2023-05-08,Silver,Inactive
+CUST05044,Andrea,Sullivan,lromero@example.org,2852030761,Hyderabad,Tamil Nadu,India,2022-11-22,Platinum,Active
+CUST05045,Jodi,Todd,leepaula@example.net,(370)826-1940x92923,Patna,Rajasthan,India,2024-03-05,Gold,Active
+CUST05046,Lisa,Cooper,lrogers@example.net,670-308-6816x311,Hyderabad,West Bengal,India,2024-05-10,Gold,Inactive
+CUST05047,William,Taylor,kimberlylevy@example.net,673-764-7268x3973,Patna,Uttar Pradesh,India,2023-11-19,Silver,Active
+CUST05048,Susan,Thompson,steven57@example.net,(222)263-0239,Patna,Karnataka,India,2023-07-31,Gold,Inactive
+CUST05049,Daniel,Grant,pamelareed@example.net,001-713-429-5215x7487,Jaipur,Uttar Pradesh,India,2023-12-03,Silver,Inactive
+CUST05050,Randy,Wood,david01@example.org,+1-544-548-9281,Jaipur,West Bengal,India,2022-07-10,Gold,Active
+CUST05051,Ashley,Robinson,ulopez@example.com,9189193518,Bangalore,Uttar Pradesh,India,2023-04-05,Gold,Active
+CUST05052,Kyle,Johnson,yanderson@example.org,915.939.4562x074,Lucknow,Uttar Pradesh,India,2022-01-11,Platinum,Active
+CUST05053,Mark,Hayes,spearssusan@example.org,(914)860-0896,Lucknow,Maharashtra,India,2022-05-28,Platinum,Active
+CUST05054,Anna,James,rebekah86@example.com,+1-739-976-8206x836,Pune,West Bengal,India,2022-12-13,Gold,Inactive
+CUST05055,Adam,Martinez,qlawrence@example.com,(496)426-3485,Patna,Karnataka,India,2023-03-04,Platinum,Active
+CUST05056,Kimberly,Craig,lcooper@example.org,(361)701-1013x681,Jaipur,Uttar Pradesh,India,2022-08-12,Platinum,Inactive
+CUST05057,Bryan,Stanley,anne83@example.net,367-360-2923x43189,Delhi,Uttar Pradesh,India,2023-09-14,Platinum,Active
+CUST05058,Thomas,Richmond,ehicks@example.org,+1-330-492-4758x6475,Hyderabad,West Bengal,India,2024-03-27,Platinum,Inactive
+CUST05059,Cody,Whitaker,mariavelazquez@example.org,614-304-5494x12400,Pune,Bihar,India,2023-08-29,Silver,Inactive
+CUST05060,Marvin,Walsh,jamesbaldwin@example.com,662.955.5705x018,Chennai,Tamil Nadu,India,2024-03-09,Gold,Active
+CUST05061,Jacob,Nash,nathan61@example.org,001-766-717-5796x733,Delhi,West Bengal,India,2022-12-22,Platinum,Active
+CUST05062,Antonio,Rivera,carrolldavid@example.net,(611)392-7008x78835,Pune,Uttar Pradesh,India,2023-05-01,Platinum,Active
+CUST05063,Daniel,Martinez,uclark@example.org,620-915-1731,Kolkata,Rajasthan,India,2022-12-02,Gold,Inactive
+CUST05064,Stacy,Murphy,ityler@example.com,+1-614-465-4050,Delhi,Karnataka,India,2024-03-06,Silver,Inactive
+CUST05065,Barbara,Wilson,htrujillo@example.org,(381)958-7824x377,Lucknow,Delhi,India,2023-02-26,Platinum,Inactive
+CUST05066,Darren,Cook,jill12@example.net,(306)527-8302,Kolkata,Rajasthan,India,2023-05-28,Gold,Inactive
+CUST05067,Travis,Cox,hthomas@example.com,(633)370-8448x6019,Hyderabad,Bihar,India,2022-12-19,Gold,Active
+CUST05068,Sheila,Drake,jerry28@example.org,817-508-7026x769,Delhi,Tamil Nadu,India,2023-08-24,Platinum,Inactive
+CUST05069,Rodney,Powell,mckinneytonya@example.org,(795)922-1320x3853,Patna,Rajasthan,India,2022-05-31,Silver,Inactive
+CUST05070,Benjamin,Douglas,rickeywolf@example.org,212-283-7450,Patna,Rajasthan,India,2024-02-07,Platinum,Active
+CUST05071,Angela,Horne,frazieranna@example.com,611.372.4514x9410,Delhi,Bihar,India,2022-07-04,Silver,Active
+CUST05072,Robert,Reed,christopher08@example.net,+1-944-971-1611x1356,Mumbai,Maharashtra,India,2023-05-09,Silver,Inactive
+CUST05073,Sarah,Johnson,spencechristopher@example.com,777-651-8162x898,Chennai,Rajasthan,India,2024-04-30,Gold,Active
+CUST05074,Tyler,Wheeler,nunezjonathan@example.net,270-917-0555,Mumbai,Uttar Pradesh,India,2023-05-19,Silver,Active
+CUST05075,Leonard,Hammond,johnayers@example.com,001-460-742-1916x6269,Hyderabad,Bihar,India,2024-03-09,Platinum,Inactive
+CUST05076,Clinton,Ellis,amanda72@example.com,(652)786-6062,Hyderabad,Telangana,India,2022-04-27,Platinum,Inactive
+CUST05077,Tina,Grant,mendozastephanie@example.com,+1-630-483-0717x41672,Jaipur,Tamil Nadu,India,2023-08-14,Silver,Inactive
+CUST05078,Margaret,Allen,katherinegarcia@example.net,585-461-1679x55265,Mumbai,Uttar Pradesh,India,2022-06-29,Platinum,Active
+CUST05079,Larry,Robertson,williamthompson@example.net,001-855-652-1561x02814,Kolkata,Bihar,India,2022-08-01,Silver,Active
+CUST05080,Alison,Wilson,robertscory@example.org,949.739.0348,Bangalore,West Bengal,India,2022-07-04,Silver,Active
+CUST05081,Jacqueline,Ramirez,katherinebradshaw@example.net,208-221-0944x92695,Patna,Uttar Pradesh,India,2022-09-30,Gold,Inactive
+CUST05082,Joseph,Mcknight,michaela13@example.org,602-525-4946x1638,Mumbai,Delhi,India,2024-04-28,Gold,Active
+CUST05083,Veronica,Barnes,pnelson@example.com,(726)429-5251,Mumbai,Rajasthan,India,2024-06-08,Gold,Active
+CUST05084,William,Bauer,bcrosby@example.net,761-731-0311,Mumbai,Uttar Pradesh,India,2022-08-10,Silver,Inactive
+CUST05085,Ronald,Sanders,kristinamacias@example.com,001-762-841-5837,Delhi,Karnataka,India,2024-03-08,Platinum,Active
+CUST05086,Danielle,Adams,matthew24@example.com,392.540.6926,Hyderabad,Tamil Nadu,India,2022-02-03,Silver,Active
+CUST05087,Vanessa,Chambers,gmartin@example.org,484.360.1953x7021,Lucknow,Bihar,India,2023-02-28,Gold,Inactive
+CUST05088,Christina,Elliott,connorthompson@example.com,(911)643-6798x51967,Kolkata,Tamil Nadu,India,2023-01-21,Silver,Inactive
+CUST05089,Veronica,Howard,hboone@example.net,681-281-4281x464,Kolkata,Telangana,India,2022-06-13,Gold,Inactive
+CUST05090,Rachel,Elliott,jasonrichardson@example.com,231.900.8437,Jaipur,Delhi,India,2022-09-05,Platinum,Active
+CUST05091,Bobby,Lynch,desireecooper@example.org,(411)555-2944x8540,Delhi,Uttar Pradesh,India,2023-07-31,Gold,Inactive
+CUST05092,Kevin,Ross,herringlindsay@example.net,916-307-9877x862,Patna,Karnataka,India,2022-03-04,Platinum,Inactive
+CUST05093,Rachel,Hutchinson,gcardenas@example.org,725-717-7280,Kolkata,Tamil Nadu,India,2022-04-22,Platinum,Active
+CUST05094,Courtney,Miller,bgeorge@example.com,647.229.5789x990,Lucknow,Bihar,India,2022-05-11,Gold,Active
+CUST05095,Mason,Duncan,johntodd@example.com,(658)669-8226,Mumbai,Bihar,India,2023-07-08,Platinum,Active
+CUST05096,Belinda,Cook,justinwinters@example.org,+1-675-700-4755,Bangalore,Tamil Nadu,India,2024-04-21,Gold,Active
+CUST05097,Amanda,Rios,mariaguzman@example.org,520-294-3315x4456,Kolkata,Uttar Pradesh,India,2022-11-02,Silver,Active
+CUST05098,Samuel,Jenkins,nbenson@example.com,3436777069,Bangalore,Uttar Pradesh,India,2024-04-30,Gold,Inactive
+CUST05099,Nicholas,Duncan,michael31@example.net,703-538-8779x0178,Chennai,Bihar,India,2023-10-24,Gold,Active
+CUST05100,Lorraine,Torres,barajascharles@example.com,(371)398-2711x690,Hyderabad,Karnataka,India,2023-07-21,Silver,Inactive
+CUST05101,Jacqueline,Mason,kristin62@example.com,+1-634-688-4384x065,Kolkata,Karnataka,India,2022-09-29,Silver,Inactive
+CUST05102,Christopher,Phillips,rayjacob@example.org,789.203.7288,Delhi,West Bengal,India,2024-01-11,Platinum,Inactive
+CUST05103,Brenda,Parks,amberwheeler@example.net,001-273-663-3987,Delhi,Uttar Pradesh,India,2022-11-05,Platinum,Inactive
+CUST05104,Lisa,Peters,daughertydean@example.org,(442)691-3360,Bangalore,Delhi,India,2023-01-08,Silver,Active
+CUST05105,Andrea,Kent,joshuahicks@example.net,886-960-7724x5137,Delhi,Maharashtra,India,2023-07-13,Platinum,Active
+CUST05106,Shannon,Myers,carolyn39@example.com,973.704.6649x766,Delhi,Bihar,India,2023-09-02,Silver,Active
+CUST05107,Amy,Lin,williamscameron@example.org,394-344-9140x4695,Hyderabad,Tamil Nadu,India,2023-01-16,Platinum,Active
+CUST05108,Jonathan,Diaz,emily52@example.com,001-975-655-1245x5848,Hyderabad,West Bengal,India,2022-10-14,Platinum,Active
+CUST05109,Kevin,Watson,jeromeballard@example.com,511-210-9271x71729,Pune,Bihar,India,2023-08-22,Silver,Inactive
+CUST05110,Keith,Sanchez,lgarcia@example.com,986-527-9718,Pune,Tamil Nadu,India,2022-07-17,Silver,Active
+CUST05111,John,Rodriguez,roger73@example.net,5306476776,Pune,Karnataka,India,2022-06-21,Silver,Active
+CUST05112,Mary,Harrison,matthew42@example.net,445.590.7744,Chennai,Karnataka,India,2022-06-07,Gold,Active
+CUST05113,Allison,Chambers,lawrencejason@example.net,(611)208-1040,Kolkata,Tamil Nadu,India,2022-04-27,Gold,Inactive
+CUST05114,Matthew,Mayer,finleylori@example.com,+1-515-440-2926x77743,Delhi,Tamil Nadu,India,2022-12-03,Gold,Inactive
+CUST05115,Charles,Hudson,tylerrivera@example.org,710.847.4320x3545,Pune,Tamil Nadu,India,2023-12-13,Silver,Active
+CUST05116,Darren,Rose,ssantos@example.net,601.785.4502,Patna,Telangana,India,2024-06-15,Silver,Inactive
+CUST05117,Michael,Phillips,dillonanna@example.org,001-788-213-4644x2864,Kolkata,Uttar Pradesh,India,2022-06-17,Silver,Active
+CUST05118,Troy,Stokes,warias@example.net,(281)594-8940x076,Jaipur,Delhi,India,2024-04-11,Gold,Active
+CUST05119,Katie,Moore,kathleen98@example.com,615.435.4244x33929,Patna,Telangana,India,2022-05-06,Gold,Active
+CUST05120,Lucas,Peters,mark19@example.com,661-481-9890,Kolkata,Delhi,India,2022-06-15,Gold,Inactive
+CUST05121,Robert,Berry,ljohns@example.com,9766637947,Kolkata,Uttar Pradesh,India,2024-02-09,Gold,Active
+CUST05122,Donna,Skinner,perezrobert@example.com,598-733-2244,Mumbai,Bihar,India,2022-02-27,Silver,Inactive
+CUST05123,Carol,Myers,nicolejackson@example.org,(296)346-0036,Pune,Maharashtra,India,2023-02-16,Gold,Inactive
+CUST05124,Deborah,Smith,kimberlygarza@example.com,001-987-312-2155,Kolkata,Karnataka,India,2022-11-13,Gold,Active
+CUST05125,Cory,Oliver,nicolas16@example.net,548.683.9585x1596,Delhi,Uttar Pradesh,India,2022-03-09,Silver,Inactive
+CUST05126,Lisa,Cox,dana55@example.com,967-294-1448,Mumbai,Tamil Nadu,India,2023-10-19,Gold,Inactive
+CUST05127,Crystal,Keller,nancymartinez@example.com,+1-600-467-6666,Mumbai,Bihar,India,2023-09-30,Silver,Inactive
+CUST05128,Madison,Sanchez,sabrina27@example.com,675.240.4897,Mumbai,Tamil Nadu,India,2023-04-03,Silver,Inactive
+CUST05129,Michael,Anderson,scott23@example.net,(352)589-6390x57178,Pune,Uttar Pradesh,India,2023-01-17,Silver,Inactive
+CUST05130,Michelle,Holland,turnerbrian@example.com,(925)286-5470x9889,Hyderabad,Rajasthan,India,2024-05-25,Gold,Active
+CUST05131,Morgan,Matthews,steven79@example.com,732-782-5571x180,Jaipur,Uttar Pradesh,India,2023-11-15,Gold,Inactive
+CUST05132,Andrea,Warner,mallorynewman@example.net,(840)420-8454,Patna,Delhi,India,2022-04-16,Platinum,Inactive
+CUST05133,Philip,Jones,bakernicholas@example.com,001-898-735-4632,Lucknow,Tamil Nadu,India,2022-05-04,Silver,Active
+CUST05134,Jeanne,Davis,daniel80@example.org,518-256-1943x20160,Kolkata,Bihar,India,2023-08-08,Platinum,Inactive
+CUST05135,Maxwell,Hernandez,michelesimpson@example.com,001-254-897-0468x09364,Patna,Telangana,India,2022-11-19,Silver,Active
+CUST05136,Crystal,Santos,rebekah15@example.com,648.317.5272x171,Mumbai,Maharashtra,India,2022-06-20,Gold,Active
+CUST05137,Sally,Frazier,tamara20@example.com,001-757-700-1654,Chennai,Karnataka,India,2024-05-30,Silver,Inactive
+CUST05138,Melissa,Gray,jessicaadams@example.net,579.643.2557x049,Hyderabad,Tamil Nadu,India,2022-04-07,Platinum,Active
+CUST05139,Brian,Duran,emejia@example.org,890-248-2825,Kolkata,Maharashtra,India,2022-04-13,Gold,Active
+CUST05140,Rodney,Meyer,samantha32@example.org,809.260.4361x4341,Delhi,West Bengal,India,2023-11-14,Gold,Inactive
+CUST05141,Robert,Maddox,sandersmolly@example.org,925-442-4532x870,Lucknow,Bihar,India,2023-08-29,Gold,Inactive
+CUST05142,William,Cox,bassrussell@example.org,234.976.5929x7784,Patna,Karnataka,India,2023-09-12,Platinum,Inactive
+CUST05143,Kevin,Barker,teresa86@example.net,+1-486-948-3552x4339,Patna,Bihar,India,2024-05-30,Silver,Active
+CUST05144,Ryan,Robinson,wdoyle@example.com,(949)899-0326,Hyderabad,Karnataka,India,2023-12-27,Platinum,Active
+CUST05145,Robert,Richards,kellyreed@example.com,529-801-9108x6952,Patna,Delhi,India,2023-08-28,Gold,Inactive
+CUST05146,Kevin,Huff,hmorales@example.com,(708)447-1976x087,Delhi,Uttar Pradesh,India,2023-05-20,Gold,Inactive
+CUST05147,Lisa,Thompson,williamlarsen@example.net,(363)280-6165x492,Kolkata,Tamil Nadu,India,2024-04-29,Silver,Active
+CUST05148,Troy,Brown,cpearson@example.org,(504)247-7488x611,Patna,West Bengal,India,2024-02-15,Gold,Inactive
+CUST05149,Jose,Fox,laura63@example.com,001-892-233-1151x8382,Chennai,Delhi,India,2022-04-08,Silver,Inactive
+CUST05150,Lindsey,Hernandez,escobarbrian@example.net,001-536-533-4954x5373,Jaipur,Telangana,India,2023-04-24,Gold,Inactive
+CUST05151,Stephen,Gonzalez,pamela45@example.com,+1-355-402-2338x266,Jaipur,Karnataka,India,2022-02-28,Platinum,Inactive
+CUST05152,Thomas,Stephens,sabrinagonzalez@example.com,+1-949-367-4015x839,Jaipur,West Bengal,India,2024-01-23,Silver,Active
+CUST05153,Thomas,King,preston94@example.net,758.927.7847,Chennai,Uttar Pradesh,India,2024-03-04,Platinum,Inactive
+CUST05154,Anthony,Higgins,dcarter@example.org,927-698-0122x5780,Bangalore,Bihar,India,2022-05-19,Silver,Inactive
+CUST05155,Nicholas,Brown,across@example.org,789.930.9761x911,Lucknow,Bihar,India,2023-02-12,Platinum,Active
+CUST05156,Laura,Jackson,andrea63@example.net,+1-932-777-6350x0350,Hyderabad,Tamil Nadu,India,2023-01-07,Platinum,Inactive
+CUST05157,Kim,Smith,hayesdylan@example.net,001-646-446-7705x8238,Chennai,Maharashtra,India,2024-01-25,Platinum,Inactive
+CUST05158,Omar,Martinez,yhill@example.net,(679)402-4945,Jaipur,Bihar,India,2022-06-22,Silver,Active
+CUST05159,Sarah,Grant,sanchezjeremy@example.com,444-701-9111x03522,Chennai,Delhi,India,2024-06-09,Silver,Active
+CUST05160,Tammy,Johnson,aanderson@example.net,(712)434-2566,Bangalore,Bihar,India,2022-12-28,Gold,Inactive
+CUST05161,Stephanie,Tyler,gonzalezjennifer@example.org,(783)692-7441x00649,Jaipur,Uttar Pradesh,India,2022-06-26,Silver,Inactive
+CUST05162,Amanda,Gray,murillorobyn@example.org,+1-839-219-6294x63997,Delhi,Maharashtra,India,2022-07-04,Silver,Active
+CUST05163,David,Patrick,montesashley@example.org,001-420-782-6313x034,Hyderabad,Maharashtra,India,2022-09-09,Gold,Active
+CUST05164,Brooke,Cook,gaguirre@example.net,+1-601-929-6434x88788,Delhi,Delhi,India,2023-09-01,Platinum,Inactive
+CUST05165,Allen,Peterson,ghayes@example.com,952-630-3413x6977,Patna,Rajasthan,India,2023-02-08,Silver,Active
+CUST05166,Timothy,Taylor,leestephen@example.com,(946)849-1221x20852,Bangalore,Delhi,India,2023-02-24,Gold,Inactive
+CUST05167,Karen,Rodriguez,donald67@example.com,7116888034,Delhi,Karnataka,India,2024-04-27,Gold,Active
+CUST05168,Timothy,Hendricks,michaelmcdonald@example.net,247.969.5725x5099,Mumbai,Rajasthan,India,2022-07-09,Gold,Active
+CUST05169,John,Smith,brownkatie@example.com,+1-472-505-3321x05780,Pune,Maharashtra,India,2022-01-20,Silver,Active
+CUST05170,Alexander,Myers,mckenziesilva@example.net,+1-495-658-1031x96970,Pune,Tamil Nadu,India,2023-08-12,Gold,Active
+CUST05171,Kelsey,Brown,donnaromero@example.net,(670)366-9342,Kolkata,Bihar,India,2023-07-06,Silver,Active
+CUST05172,Jamie,Gray,mendezlisa@example.net,+1-550-857-5668x1371,Lucknow,Maharashtra,India,2022-11-02,Silver,Active
+CUST05173,Jennifer,Green,thomasmichelle@example.net,001-200-671-7047x4765,Delhi,Delhi,India,2023-01-27,Gold,Active
+CUST05174,Margaret,Sweeney,carlos57@example.com,001-910-928-5334x20775,Patna,Rajasthan,India,2023-06-26,Gold,Active
+CUST05175,Matthew,Strickland,cynthiajarvis@example.net,220-731-8982x28910,Bangalore,Telangana,India,2022-11-25,Gold,Active
+CUST05176,Allen,Charles,cookmatthew@example.com,789-421-6738x9337,Bangalore,Delhi,India,2023-12-03,Gold,Inactive
+CUST05177,Ronald,Keller,tparsons@example.net,628.829.2432x5945,Patna,Uttar Pradesh,India,2024-06-10,Gold,Active
+CUST05178,Jason,Vaughn,montgomerytroy@example.net,828-307-0501,Jaipur,Karnataka,India,2023-12-27,Silver,Active
+CUST05179,Lynn,Ramirez,madisonsmith@example.com,(222)898-5857x53169,Chennai,Tamil Nadu,India,2023-08-10,Gold,Active
+CUST05180,Shannon,Alexander,jonathan26@example.org,(403)501-9609x526,Hyderabad,Uttar Pradesh,India,2022-07-24,Silver,Inactive
+CUST05181,Eric,Johnson,annawolf@example.com,+1-813-980-5610,Bangalore,Bihar,India,2024-04-25,Silver,Active
+CUST05182,Darren,Glenn,stokessean@example.com,001-852-744-5839,Pune,Uttar Pradesh,India,2022-07-30,Silver,Active
+CUST05183,Sara,Hunter,taylorcharles@example.net,942-654-0164x70716,Kolkata,Telangana,India,2023-10-21,Gold,Active
+CUST05184,Miranda,Walters,julian84@example.org,800.899.2067x401,Hyderabad,Bihar,India,2023-03-22,Silver,Active
+CUST05185,Sheri,Martinez,michael92@example.net,001-420-843-4609x553,Chennai,Telangana,India,2023-02-03,Gold,Active
+CUST05186,Veronica,Adams,raymond35@example.org,001-397-862-8377,Pune,Rajasthan,India,2024-02-06,Silver,Inactive
+CUST05187,Peter,Williams,veronica80@example.com,001-417-542-4881x2887,Bangalore,West Bengal,India,2023-04-27,Gold,Inactive
+CUST05188,Roger,Rivera,stevenbrown@example.net,748.967.0185,Delhi,Uttar Pradesh,India,2023-03-07,Platinum,Active
+CUST05189,Melissa,Bennett,brenda40@example.com,824-955-4511x919,Hyderabad,Telangana,India,2024-03-20,Silver,Active
+CUST05190,Pamela,Anderson,dhendrix@example.net,(764)685-9374x512,Hyderabad,Uttar Pradesh,India,2024-04-18,Silver,Inactive
+CUST05191,Christine,Williams,randall77@example.org,+1-389-583-3953x7086,Chennai,Maharashtra,India,2022-12-02,Platinum,Inactive
+CUST05192,Sharon,Rivera,dosborn@example.net,(271)697-8946,Mumbai,Rajasthan,India,2022-01-21,Platinum,Active
+CUST05193,Katie,Martin,acraig@example.com,967-280-4074x12793,Hyderabad,Bihar,India,2022-06-26,Silver,Active
+CUST05194,Michael,Payne,tammywarren@example.com,409.370.6001x2282,Jaipur,Tamil Nadu,India,2022-10-21,Gold,Inactive
+CUST05195,Hannah,Davis,aliciajohnson@example.org,6016634179,Hyderabad,Maharashtra,India,2022-10-01,Gold,Active
+CUST05196,Steven,Hale,harrismargaret@example.com,(673)783-1536x3652,Hyderabad,Karnataka,India,2022-08-13,Gold,Inactive
+CUST05197,Jonathan,Simon,ujackson@example.com,+1-757-596-5295x421,Pune,West Bengal,India,2024-03-26,Gold,Inactive
+CUST05198,Rachel,Kim,oconnorelizabeth@example.net,+1-298-444-7420x29175,Kolkata,Delhi,India,2023-04-05,Silver,Inactive
+CUST05199,Paul,Jones,phouston@example.net,(633)748-8367x85111,Hyderabad,West Bengal,India,2024-06-14,Gold,Active
+CUST05200,Wendy,Smith,lpeterson@example.net,330.982.5452,Patna,Uttar Pradesh,India,2023-01-23,Platinum,Active

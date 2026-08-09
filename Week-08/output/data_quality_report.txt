@@ -1,0 +1,18 @@
+E-COMMERCE DATA QUALITY REPORT
+==================================================
+
+Original customers: 500
+Clean customers: 500
+
+Original products: 500
+Clean products: 500
+
+Original orders: 1000
+Clean orders: 950
+Missing customer IDs removed: 50
+
+Invalid emails found: 10
+Invalid order references: 95
+Invalid product references: 0
+Invalid dates removed: 0
+Clean order items: 1905

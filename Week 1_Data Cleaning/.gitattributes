@@ -1,0 +1,17 @@
+# Normalize line endings
+* text=auto
+
+# Notebooks and Python
+*.ipynb text
+*.py text
+
+# Data files
+*.csv text
+
+# Ignore binary handling
+*.png binary
+*.jpg binary
+
+# Prevent GitHub noise
+.gitignore export-ignore
+.gitattributes export-ignore
